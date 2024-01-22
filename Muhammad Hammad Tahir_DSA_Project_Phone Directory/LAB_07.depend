@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1701497035 source:d:\dsa  projects\lab_07\main.cpp
+	<iostream>
+	<cstdlib>
+	<BST.h>
+
+1701497030 source:d:\dsa  projects\lab_07\src\bst.cpp
+	"BST.h"
+	<iostream>
+
+1701497034 d:\dsa  projects\lab_07\include\bst.h
+
+1701476141 source:d:\dsa  projects\lab_07\src\bst_impl.cpp
+	<iostream>
+	"BST.cpp"
+
+1701497030 d:\dsa  projects\lab_07\src\bst.cpp
+	"BST.h"
+	<iostream>
+
+1702720071 source:c:\users\lenovo t450\desktop\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_lab_07\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<BST.h>
+
+1702719598 c:\users\lenovo t450\desktop\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_lab_07\include\bst.h
+	<string>
+
+1702722088 source:c:\users\lenovo t450\desktop\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_lab_07\src\bst.cpp
+	"BST.h"
+	<iostream>
+	<string>
+
+1703613173 source:c:\users\hammad\downloads\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_lab_07\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<BST.h>
+	<set.h>
+
+1703607156 c:\users\hammad\downloads\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_lab_07\include\bst.h
+	<string>
+	<set.h>
+
+1703612102 source:c:\users\hammad\downloads\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_lab_07\src\bst.cpp
+	"BST.h"
+	<iostream>
+	<string>
+	<set.h>
+
+1703614093 source:c:\users\hammad\downloads\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_lab_07\src\set.cpp
+	"set.h"
+	<iostream>
+
+1703612924 c:\users\hammad\downloads\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_lab_07\include\set.h
+
+1703603917 source:c:\users\hammad\downloads\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_lab_07\src\set_impl.cpp
+	<iostream>
+	<string>
+	"set.cpp"
+
+1703614093 c:\users\hammad\downloads\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_lab_07\src\set.cpp
+	"set.h"
+	<iostream>
+
+1703678455 source:d:\dsa  projects\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_project_phone directory\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<BST.h>
+	<set.h>
+
+1703681102 d:\dsa  projects\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_project_phone directory\include\bst.h
+	<string>
+	<set.h>
+
+1703681428 d:\dsa  projects\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_project_phone directory\include\set.h
+
+1703679773 source:d:\dsa  projects\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_project_phone directory\src\bst.cpp
+	"BST.h"
+	<iostream>
+	<string>
+	<set.h>
+
+1703682276 source:d:\dsa  projects\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_project_phone directory\src\set.cpp
+	"set.h"
+	<iostream>
+
+1703681492 source:d:\dsa  projects\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_project_phone directory\src\set_impl.cpp
+	<iostream>
+	<string>
+	"set.cpp"
+
+1703682276 d:\dsa  projects\muhammad hammad tahir,aqsa saeed,noor fatima_dsa_project_phone directory\src\set.cpp
+	"set.h"
+	<iostream>
+
